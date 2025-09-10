@@ -28,7 +28,7 @@ Born from a weekend itch → grew into my daily driver.
 
 ## Setup in 30 Seconds  
 ```bash
-git clone https://github.com/yourusername/nothing-taskmanager.git
+git clone https://github.com/Swaraj-Darekar0/Notifie.git
 cd nothing-taskmanager
 npm install
 npx react-native run-android
