@@ -52,10 +52,9 @@ Every line of code is a nod to Nothing’s philosophy: less noise, more signal. 
 - Test on a real Nothing device if you can  
 
 ## Roadmap  
-- [ ] Widgets (home + lock screen)  
 - [ ] Phone (2) tweaks  
 - [ ] iOS version with adapted design  
-- [ ] Deep OS-level integrations  
+- [ ] OS integrations  
 - [ ] Export / backup  
 
 ## License  
