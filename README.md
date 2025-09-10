@@ -7,14 +7,6 @@ I’m a Nothing Phone (2a) user who got tired of todo apps that looked like clut
 
 Born from a weekend itch → grew into my daily driver.  
 
-## Design Code  
-This isn’t “just another task app.” It’s designed the Nothing way:  
-- 🖤 **Black & White Core** – pure contrast, zero distractions  
-- ⌨️ **Terminal Vibes** – monospace everywhere  
-- 🔴 **Nothing Red** – used only when it really matters  
-- ●○○ **Dot Priority System** – critical, high, normal  
-- 📐 **Sharp Geometry** – no curves, no nonsense  
-
 ## Features That Matter  
 - **Today First** – focus on now, not endless lists  
 - **Add Fast** – task creation without the bloat  
