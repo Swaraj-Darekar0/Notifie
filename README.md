@@ -1,97 +1,71 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Notifie  
 
-# Getting Started
+> Minimalist productivity. Nothing style.  
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## Why This Exists  
+I’m a Nothing Phone (2a) user who got tired of todo apps that looked like cluttered spreadsheets. Nothing’s design language is clean, terminal-esque, and unapologetically different — so I built a task manager that feels like it belongs on the device, not bolted onto it.  
 
-## Step 1: Start Metro
+Born from a weekend itch → grew into my daily driver.  
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## Features That Matter  
+- **Today First** – focus on now, not endless lists  
+- **Add Fast** – task creation without the bloat  
+- **Smart Notifs** – synced with Nothing’s haptic language  
+- **Swipe Flow** – Today → Tomorrow → Upcoming with gestures  
+- **Custom Date Picker** – Nothing-styled, obviously  
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+### Optimized for Nothing  
+- Tailored haptic patterns  
+- Lock screen integration  
+- Red accents that pop but don’t scream  
+- UI precision, no rounded corners  
 
-```sh
-# Using npm
-npm start
+### Under the Hood  
+- Offline-first (AsyncStorage)  
+- React Native core  
+- Modular architecture  
+- Clean permission handling  
 
-# OR using Yarn
-yarn start
-```
+## Setup in 30 Seconds  
+```bash
+git clone https://github.com/yourusername/nothing-taskmanager.git
+cd nothing-taskmanager
+npm install
+npx react-native run-android
+```  
 
-## Step 2: Build and run your app
+## How to Use  
+1. Tap `[+] ADD TASK`  
+2. Set priority (●●●, ●●○, ●○○)  
+3. Pick a date (Today / Tomorrow / Custom)  
+4. Swipe through timelines  
+5. Let the phone remind you with its signature vibes  
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+## Personal Note  
+Every line of code is a nod to Nothing’s philosophy: less noise, more signal. This wasn’t about shipping “yet another app” — it was about making software that *feels native* to the hardware we actually use.  
 
-### Android
+## Contribute Without Breaking the Aesthetic  
+- Monospace only  
+- Black / white / gray / Nothing red  
+- No curves  
+- Minimal moves, purposeful interactions  
+- Test on a real Nothing device if you can  
 
-```sh
-# Using npm
-npm run android
+## Roadmap  
+- [ ] Widgets (home + lock screen)  
+- [ ] Phone (2) tweaks  
+- [ ] iOS version with adapted design  
+- [ ] Deep OS-level integrations  
+- [ ] Export / backup  
 
-# OR using Yarn
-yarn android
-```
+## License  
+MIT. Steal the idea, remix it, but keep it beautiful.  
 
-### iOS
+## Thanks  
+- **Nothing** — for proving less is more  
+- **Carl Pei** — for vision over noise  
+- **Community** — for demanding apps that don’t compromise  
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
-
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
-
-```sh
-bundle install
-```
-
-Then, and every time you update your native dependencies, run:
-
-```sh
-bundle exec pod install
-```
-
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
-
-```sh
-# Using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
-
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
-
-## Step 3: Modify your app
-
-Now that you have successfully run the app, let's make changes!
-
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+---  
+Built with ● by a Nothing Phone enthusiast.  
+*PS - Not affiliated with Nothing Technology Limited.*  
