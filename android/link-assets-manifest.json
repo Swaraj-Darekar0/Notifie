@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/LetteraMonoLLCondLight-Regular.otf",
+      "sha1": "1b11b390441446a17d2846de0741db282a760260"
+    },
+    {
+      "path": "src/assets/fonts/Ndot-55.otf",
+      "sha1": "dbd40da7c632bac6ca6f96c6d03a0b44ec2075ce"
+    },
+    {
+      "path": "src/assets/fonts/NType82-Regular.otf",
+      "sha1": "22b759e32ac4a7c7e376379f9af93d7ef09bacea"
+    },
+    {
+      "path": "src/assets/fonts/NType82Mono-Regular.otf",
+      "sha1": "16ffa1c1bade176aa09356d440c683bc8a6ee5e8"
+    }
+  ]
+}
